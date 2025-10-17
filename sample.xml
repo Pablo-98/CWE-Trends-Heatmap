@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<library>
+    <book id="1">
+        <title>Neuromancer</title>
+        <author>William Gibson</author>
+    </book>
+    <book id="2">
+        <title>Snow Crash</title>
+        <author>Neal Stephenson</author>
+    </book>
+</library>
