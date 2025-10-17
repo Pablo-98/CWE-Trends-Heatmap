@@ -2,7 +2,7 @@ Name of project
 
  
 
-CVE to CWE Mapper  
+CWE Heatmap
 
  
 
