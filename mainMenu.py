@@ -17,7 +17,7 @@ def start_cwe_analysis():
     if cwe_id:
         messagebox.showinfo("CWE Selected", f"You selected CWE: {cwe_id}") #formatted string 
 
-def exit_program():
+def exit_program():f
     root.destroy()
 
 
